@@ -2,7 +2,7 @@
 html {
     background-color: #222222;
   }
-  
+
 h1 {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -10,7 +10,12 @@ h1 {
     color: #FFAF45;
   }
 
-
+#test01 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+}
   .roboto-thin {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
