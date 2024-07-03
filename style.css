@@ -10,6 +10,16 @@ h1 {
     color: #FFAF45;
   }
 
+  ol {
+    background-color: white;
+    font-weight: 800;
+    font-size: 3em;
+  }
+
+  nav li {
+    color: blue;
+  }
+
 #test01 {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
